@@ -1,1 +1,1 @@
-# graph-demo
+# spring-graphql
